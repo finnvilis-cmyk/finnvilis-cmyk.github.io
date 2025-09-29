@@ -12,3 +12,12 @@ h1 {
   color: red;
   text-align: center;
 }
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: square;
+}
